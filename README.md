@@ -1,0 +1,1 @@
+# find-all-subArray-of-given-array
